@@ -18,8 +18,8 @@ let arr = [
     par: "açıklama 3"
   },
   {
-    title: "dağ 5",
-    par: "açıklama 5"
+    title: "dağ 4",
+    par: "açıklama 4"
   }
 ]
 
