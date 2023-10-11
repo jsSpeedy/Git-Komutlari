@@ -8,14 +8,16 @@ let arr = [
   {
     title: "dağ 1",
     par: "açıklama 1"
-  }, {
+  },
+  {
     title: "dağ 2",
     par: "açıklama 2"
-  }, {
+  },
+  {
     title: "dağ 3",
     par: "açıklama 3"
-  }
-  , {
+  },
+  {
     title: "dağ 4",
     par: "açıklama 4"
   }
