@@ -2,6 +2,7 @@
 import './App.css';
 import Card from './components/Card';
 import { useState } from 'react';
+import { Button } from '@mantine/core';
 
 let arr = [
   {
@@ -30,6 +31,7 @@ const App = () => {
     <div >
       <h1>Ders : {lesson}</h1>
       <p>açıklama</p>
+      <Button>Deneme Buton</Button>
       <button onClick={() => { setLesson(lesson + 1) }}>Ders arttır</button>
       <button onClick={() => { setLesson(lesson - 1) }}>Ders azalt</button>
       <button onClick={() => { setLesson(100) }}>Ders 100</button>
